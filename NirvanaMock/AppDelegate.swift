@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  NirvanaMock
 //
-//  Created by TheDuaX on 2018-07-16.
+//  Created by Olivier Dupont-Therrien on 2018-07-16.
 //  Copyright © 2018 BLIQc. All rights reserved.
 //
 
